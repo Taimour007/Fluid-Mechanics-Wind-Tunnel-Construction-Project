@@ -7,3 +7,5 @@ A key feature of this wind tunnel is its flow visualization capability, allowing
 The wind tunnel ensures controlled and uniform airflow within the test section, minimizing turbulence and enhancing the accuracy of qualitative and quantitative aerodynamic assessments. Its modular design allows for future enhancements, such as integrating force measurement systems and pressure sensors for advanced aerodynamic studies.
 
 This project serves as a foundational platform for experimental fluid mechanics, supporting both aerodynamic research and educational demonstrations, bridging the gap between theoretical concepts and real-world applications.
+
+A detailed project report, including design specifications and experimental observations, is available upon request
