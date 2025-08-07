@@ -9,3 +9,7 @@ The wind tunnel ensures controlled and uniform airflow within the test section, 
 This project serves as a foundational platform for experimental fluid mechanics, supporting both aerodynamic research and educational demonstrations, bridging the gap between theoretical concepts and real-world applications.
 
 A detailed project report, including design specifications and experimental observations, is available upon request
+
+You can head over to this link to access further details of the project
+
+https://www.linkedin.com/in/taimour-z-41a39a290/details/projects/
